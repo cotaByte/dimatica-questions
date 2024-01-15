@@ -1,0 +1,23 @@
+body {
+    padding: 20px;
+}
+
+
+.card-head {
+    margin-bottom: 10px;
+}
+
+.card-container {
+    position: relative;
+    background-color: #F8F9FA;
+    border: 1px solid silver;
+    padding: 13px;
+    border-radius: 5px;
+    max-width: 630px;
+    box-shadow: 1px 2px rgb(245, 243, 243);
+}
+
+.btn {
+    margin-right: -5px;
+    border: 1px solid black !important;
+}
